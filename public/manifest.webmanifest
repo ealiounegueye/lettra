@@ -1,0 +1,13 @@
+{
+  "name": "Lettra",
+  "short_name": "Lettra",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e4e4e4",
+  "theme_color": "#e4e4e4",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
